@@ -6,14 +6,6 @@ Created on Fri Jun 22 16:31:06 2018
 @author: Mushi
 """
 
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 21 20:34:50 2018
-
-@author: Mushi
-"""
-
 import tweepy
 from keys import *
 from datetime import *
