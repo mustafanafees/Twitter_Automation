@@ -21,13 +21,18 @@ You need to do following
     
 2. Create Virtual Environment
     a. Once you clone this repository
+    
     b. cd to Twitter_Automation
+    
     c. install virtualenv with 
         $ pip install virtualenv
+    
     d. create virtual environment using: 
         $ virtualenv venv
+    
     e. activate virtual environment using: 
         $ source venv/bin/activate 
+    
     f. To leave the virtual environment run: 
         $ deactivate
 
