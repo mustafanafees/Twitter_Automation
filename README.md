@@ -43,6 +43,12 @@ You need to do following
     Once your in the virtual environment use following command to install tweepy
     
     $ pip install tweepy
+    
+    
+unfollow_friends.py
+This script unfollow those users which did not tweet for more than 60 days. 
+
+
 
 
 
